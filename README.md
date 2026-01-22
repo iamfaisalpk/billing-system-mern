@@ -279,4 +279,4 @@ UI design is kept minimal to prioritize logic and correctness.
 👨‍💻 Author
 
 Mohammed Faisal
-Full-Stack Developer (MERN
+Full-Stack Developer (MERN)
